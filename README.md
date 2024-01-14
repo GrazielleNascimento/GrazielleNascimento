@@ -7,8 +7,8 @@
  <br>
  <br>
 
-- 🌱 I'm currently learning Java, Spring Boot, SQL, Nest.js, Typescript and React Native.
 - 💻 I'm interested in solving problems using technology.
+- 🌱 I'm currently learning Java, Spring Boot, SQL, Nest.js, Typescript and React Native.
 - 🚀 My areas of interest include web development, artificial intelligence, back-end development, and mobile development.
 - ⚡ Some things I'm most passionate about include traveling ✈️, shopping 🛍️, reading 📖, astrology 🌌, and studying 👩‍🎓.
 <br>
